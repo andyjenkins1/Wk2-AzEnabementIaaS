@@ -108,12 +108,40 @@ InsertScreenShot
 
 ## Exercise 2 - Virtual Networks (VNET) Introduction
 
-Before we deploy an Virtual Machines, we wanted to spend a bit of time looking at the basic construct of a Virtual Network as this will help those who come from an AWS background and understand the VPC Concept.
+Before we deploy any Virtual Machines, we wanted to spend a bit of time looking at the basic construct of a Virtual Network as this will help those who come from an AWS background and understand the VPC Concept.
 
+So lets jump straight in and create a Virtual Network, this time we will use the Portal to mix things up a bit.
+
+### Step 1 - Navigate to the vNet Option
+
+From within the Azure Portal, select create a resource from the left hand side of the navigation pane.  You should see something like this 
+
+![Create Resource](https://ajimagestores.blob.core.windows.net/azenablementwk2/Azure%20Portal%20New%20Resource.jpg)
+
+Type **Virtual Network** in the search bar the following will appear 
+
+![Deploy vNet1](https://ajimagestores.blob.core.windows.net/azenablementwk2/Deploy%20VNet1.jpg)
+
+Select **Create** to bring up the vNet Creation Options
+
+
+![Deploy vNet2](https://ajimagestores.blob.core.windows.net/azenablementwk2/Deploy%20VNet2.jpg)
+
+
+The first part of creating a vNet is to tell Azure which Subscription, Region and Resource Group you would like to place the vNet.
+
+![Deploy vNet3](https://ajimagestores.blob.core.windows.net/azenablementwk2/Deploy%20vNet3.jpg)
+
+![Deploy vNet4](https://ajimagestores.blob.core.windows.net/azenablementwk2/Deploy%20vNet4.jpg)
+
+![Deploy vNet5](https://ajimagestores.blob.core.windows.net/azenablementwk2/Deploy%20vNet5.jpg)
+
+
+:blush:
 
 [//]: <> (Adams Section.)
 
-## Activity - Deploy VM using Arm Template
+## Exercise xx - Deploy VM using ARM Template
 
 In this section we will walk through the process of deploying a simple VM with an ARM Template
 
