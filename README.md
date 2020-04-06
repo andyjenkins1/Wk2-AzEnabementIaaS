@@ -10,7 +10,7 @@ Week 2 of our Azure Enablement Series is all about Azure IaaS services with a fo
 
 At this point we are assuming you are logged into the Azure Portal and will see something like this ...
 
-![AzurePortal](/images/AzurePortal.jpg)
+![AzurePortal](https://ajimagestores.blob.core.windows.net/azenablementwk2/AzurePortal.jpg)
 
 
 test
